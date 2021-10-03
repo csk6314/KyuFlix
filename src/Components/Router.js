@@ -1,12 +1,12 @@
 import React from "react";
-import { BrowserRouter as Router,Route,Switch,Redirect } from "react-router-dom";
+import { HashRouter as Router,Route,Switch,Redirect } from "react-router-dom";
 import Home from "Routes/Home";
 import Search from "Routes/Search";
 import TV from "Routes/TV";
 import Header from "Components/Header";
 import Detail from "Routes/Detail";
 export default() => (
-    <Router basename="/react-KyuFlix">
+    <Router>
       
         <Header/>
         <Switch>
