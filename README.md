@@ -3,17 +3,21 @@
 Learning React and ES6 by building a Movie Discovery App.
 
 ## Screens
-- [ ]  HOME
-- [ ]  TV SHOWS
-- [ ]  Search
-- [ ]  Detail
+- [O]  HOME
+- [O]  TV SHOWS
+- [O]  Search
+- [O]  Detail
 
 ## API Verbs
-- [X] Now Playing (Movie)
-- [X] Upcoming (Movie)
-- [x] Top Rated (TV)
-- [x] Popular (TV, Movie) 
-- [x] Airing Today (TV)
-- [x] TV show Details
-- [x] Movie Details
-- [x] Search Movie , TV
+- [O] Now Playing (Movie)
+- [O] Top Rated (TV)
+- [O] Popular (TV, Movie) 
+- [O] Airing Today (TV)
+- [O] Upcoming (Movie)
+- [O] TV show Details
+- [O] Movie Details
+- [O] Search Movie , TV
+
+## Additional Function
+- [O] Provide Youtube Links
+- [O] Modal box
